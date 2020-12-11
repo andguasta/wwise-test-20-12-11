@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="94">
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\aaa.wproj" DateLow="1607712354" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1602176251" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Attenuations\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Audio Devices\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Control Surface Sessions\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Conversion Settings\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1602176249" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Effects\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Effects\Factory Effects.wwu" DateLow="1602176249" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Events\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Game Parameters\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Mixing Sessions\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Modulators\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Presets\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Queries\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Queries\Factory Queries.wwu" DateLow="1602176249" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\SoundBanks\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\States\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Switches\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Triggers\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\wwise-test-20-12-11\aaa\Virtual Acoustics\Default Work Unit.wwu" DateLow="1607712355" DateHigh="0"/>
+</ValidationCache>
